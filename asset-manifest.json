@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/windy/static/css/main.d9ee05d3.css",
+    "main.js": "/windy/static/js/main.1cb34c28.js",
+    "static/js/787.fc1bffcb.chunk.js": "/windy/static/js/787.fc1bffcb.chunk.js",
+    "static/media/WeatherIcons.gif": "/windy/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
+    "static/media/background1.jpg": "/windy/static/media/background1.8a4fb043753f94dfd7e5.jpg",
+    "static/media/background3.jpg": "/windy/static/media/background3.d23e37735f08981b9b2c.jpg",
+    "static/media/bootstrap-icons.woff?": "/windy/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/windy/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/windy/index.html",
+    "main.d9ee05d3.css.map": "/windy/static/css/main.d9ee05d3.css.map",
+    "main.1cb34c28.js.map": "/windy/static/js/main.1cb34c28.js.map",
+    "787.fc1bffcb.chunk.js.map": "/windy/static/js/787.fc1bffcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ee05d3.css",
+    "static/js/main.1cb34c28.js"
+  ]
+}
