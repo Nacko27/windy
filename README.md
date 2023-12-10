@@ -1,3 +1,3 @@
 Here I Live
 
-https://github.com/Nacko27/windy
+https://nacko27.github.io/windy/
